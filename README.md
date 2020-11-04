@@ -4,9 +4,8 @@
 
 ### 30-8-2020
 
-## Project 7
+## Project 7\
 **Minor**\
-
 BD02 AI
 
 **Titel**\
