@@ -1,0 +1,27 @@
+Repository structuur
+
+We maken één repository waarin wij onze “final version” inleveren, de structuur van deze repository wordt in de rechter afbeelding weergegeven  
+
+Legenda:
+•	README.md
+o	Casus beschrijving (in een mark-down file).
+o	Links naar GitHub Pages
+	documentatie 
+	installatie instructie
+•	.gitignore
+o	Files die niet worden meegenomen in het versie beheer, zo nodig gegenereerd.
+•	.gitattributes
+o	Files die opgeslagen worden door 
+middel van Git LFS.
+•	(Folder) docs
+o	GitHub Pages met de complete documentatie (homepage is extended abstract)
+•	(Folder) <project>
+o	Project met daarin code en/of andere deliverables
+•	(Folder) lfs
+o	Binary files, zoals afbeeldingen of PDF's, die wel in de repository moeten staan
+
+Door het scannen van het template dat zuyd gegeven heeft zijn de volgende vragen ontstaan:
+Wat zijn Markdown files?
+Markdown files
+(https://guides.github.com/features/mastering-markdown/)
+Markdown is een lichtgewicht en gemakkelijk te gebruiken syntaxis voor het stylen van alle vormen van schrijven op het GitHub-platform. Markdown is dus een manier om tekst te stylen, dit moeten wij gebruiken bij de readme.md, dit kun je zien aan het type bestand (.md) 
