@@ -35,5 +35,5 @@ demonstrator. Ontwerp het systeem modulair, werk met interfaces en kies het
 juiste abstractieniveau. Werk met .git en documenteer het systeem goed zodat
 het overdraagbaar is.
 **Resources**
-/
+#dit is een coole test om te kijken of gij goed werkt
 
