@@ -6,7 +6,6 @@
 
 ## Project 7
 **Minor**
-
 BD02 AI
 
 **Titel**
