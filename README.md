@@ -42,6 +42,6 @@ het overdraagbaar is.
 
 **Resources**
 
-[Link naar documentatie voorbeeld](TestDocumentatie)
+[Hiermee download je het word document](https://github.com/StefanoICT/hello-world/raw/main/OnderzoekGitHub.docx)
 
 
