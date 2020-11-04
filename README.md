@@ -7,13 +7,21 @@
 ## Project 7
 
 **Minor**
+
 BD02 AI
+
 **Titel**
+
 Machine Learning Model generator
+
 **Opdrachtgever**
+
 Shannen Dolls & Jim Bemelen
+
 **Contactgegevens**
+
 jim.bemelen@zuyd.nl
+
 **Contactpersoon lectoraat**
 Jim Bemelen
 **Achtergrond**
