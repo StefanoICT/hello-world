@@ -9,8 +9,7 @@
 
 BD02 AI
 
-**Titel**
-
+**Titel**\
 Machine Learning Model generator
 
 **Opdrachtgever**
