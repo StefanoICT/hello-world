@@ -6,8 +6,8 @@
 
 ## Project 7
 **Minor**
-BD02 AI
 
+BD02 AI
 **Titel**
 
 Machine Learning Model generator
